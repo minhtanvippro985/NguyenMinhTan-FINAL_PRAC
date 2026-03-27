@@ -1,0 +1,60 @@
+<tr id="row-SPJ806NEC">
+                <td>1</td>
+                <td class="td-name">Laptop Dell XPS 13</td>
+                <td class="td-price">28.500.000 ₫</td>
+                <td class="center" style="font-weight: 700">12</td>
+                <td>
+                  <div class="td-actions">
+                    <button class="btn btn-sm btn-edit">✏ Sửa</button>
+                    <button class="btn btn-sm btn-del">✕ Xóa</button>
+                  </div>
+                </td>
+              </tr>
+              <tr id="row-SPJ806VAO">
+                <td>2</td>
+                <td class="td-name">Chuột Logitech MX Master</td>
+                <td class="td-price">1.850.000 ₫</td>
+                <td class="center" style="font-weight: 700">34</td>
+                <td>
+                  <div class="td-actions">
+                    <button class="btn btn-sm btn-edit">✏ Sửa</button>
+                    <button class="btn btn-sm btn-del" onclick="">✕ Xóa</button>
+                  </div>
+                </td>
+              </tr>
+              <tr id="row-SPJ8067PK">
+                <td>3</td>
+                <td class="td-name">Bàn phím Keychron K2</td>
+                <td class="td-price">2.200.000 ₫</td>
+                <td class="center" style="font-weight: 700">7</td>
+                <td>
+                  <div class="td-actions">
+                    <button class="btn btn-sm btn-edit">✏ Sửa</button>
+                    <button class="btn btn-sm btn-del">✕ Xóa</button>
+                  </div>
+                </td>
+              </tr>
+              <tr id="row-SPJ806IHC">
+                <td>4</td>
+                <td class="td-name">Áo thun Basic Uniqlo</td>
+                <td class="td-price">390.000 ₫</td>
+                <td class="center" style="font-weight: 700">0</td>
+                <td>
+                  <div class="td-actions">
+                    <button class="btn btn-sm btn-edit">✏ Sửa</button>
+                    <button class="btn btn-sm btn-del">✕ Xóa</button>
+                  </div>
+                </td>
+              </tr>
+              <tr id="row-SPJ8061MB">
+                <td>5</td>
+                <td class="td-name">Cà phê rang xay 500g</td>
+                <td class="td-price">185.000 ₫</td>
+                <td class="center" style="font-weight: 700">58</td>
+                <td>
+                  <div class="td-actions">
+                    <button class="btn btn-sm btn-edit">✏ Sửa</button>
+                    <button class="btn btn-sm btn-del">✕ Xóa</button>
+                  </div>
+                </td>
+              </tr>
